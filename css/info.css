@@ -843,7 +843,7 @@ html, body {
 
 aside, main {
   width: 50%;
-  height: 816px;
+  height: 90%;
   float: left;
   padding: 0 7rem;
   margin: 2rem 0;
@@ -874,8 +874,8 @@ aside, main {
 
 .device {
   position: absolute;
-  top: 5rem;
-  right: 15rem;
+  top: 10%;
+  right: 30%;
   height: 816px;
   width: 396px;
   padding: 90px 10px;

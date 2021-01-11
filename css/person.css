@@ -6,11 +6,11 @@ body, html{
   }
   
   .wrapper{
-    left: 500px;
-    top: 200px;
+    left: 75%;
+    top: 30%;
     display: table-cell;
     vertical-align: middle;
-    position: relative;
+    position: absolute;
   }
 
   .background-circle{
